@@ -3,6 +3,8 @@
 Welcome to the project documentation.
 This project, 'Google Apps Script : Personalised Email Sender' , by the club Lambda is all about to create an Apps Script that automates reading from a Google Sheet and sends emails. Below are the two links of this project. The first link is the Google Sheet which contains the data regarding the project along with the email Ids of the recipients. The second link is the code for this project which is written in Java Script.
 
+  The data in the Google Sheet is about the purchase sales of books from a particular book store and sending the emails to the recipients regarding the information of their ordered book. 
+
 Prerequisites :
 - Learning Java Script
 - Exploring Apps Scripts

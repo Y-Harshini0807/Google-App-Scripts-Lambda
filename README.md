@@ -18,7 +18,6 @@ The data in the Google Sheet is about the purchase sales of books from a particu
 
 
 (Additional) Google Mail Merge (docs) using Google Apps Script :
-##Links
 
 -[Project Template] https://docs.google.com/document/d/1xYxelbMz36gH6m9_b5nBiJDW-j3joJeHVaLhlJnFtzY/edit
 
